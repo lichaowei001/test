@@ -7,7 +7,7 @@ export default class Hoc extends Component {
   render() {
     return (
       <div className="sas">
-        hoc
+        hoc aaaa
       </div>
     )
   }
